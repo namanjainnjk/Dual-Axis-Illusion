@@ -1,5 +1,6 @@
 # Dual Axis Rotation Illusion
 *Best Illusion of The Year 2019 - First Place Winner*
+[![Build Status](https://dev.azure.com/namanjain0498/namanjain0498/_apis/build/status/namanjain0498?branchName=master)](https://dev.azure.com/namanjain0498/namanjain0498/_build/latest?definitionId=2&branchName=master)
 
 This spinning shape appears to defy logic by rotating around both the horizontal and vertical axis at the same time!
 To make things even more confusing, the direction of rotation is also ambiguous.
